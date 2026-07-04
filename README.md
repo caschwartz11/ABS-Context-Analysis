@@ -1,5 +1,6 @@
 # How Context Influences ABS Challenges
 An analysis of over 30,000 MLB pitches investigating whether ABS challenge decisions are driven primarily by pitch accuracy or by game context.
+![Overturned/Confirmed Locations](figures/README-figures/pos_over_conf.png)
 ## Overview
 Automated Ball-Strike (ABS) was implemented at the beginning of the 2026 MLB season. It allows pitchers, catchers, and batters to challenge balls and called strikes. With a new technology comes a new strategy. Since managers and the bench are not allowed to help the challenger, what influences a player to challenge a call?
 ## Research Question
